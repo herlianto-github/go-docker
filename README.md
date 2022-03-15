@@ -1,3 +1,5 @@
+[![Docker Image CI/CD](https://github.com/herlianto-github/go-docker/actions/workflows/docker-image.yml/badge.svg)](https://github.com/herlianto-github/go-docker/actions/workflows/docker-image.yml)
+
 # go-docker
 
 Golang Rest API and deploy with Docker.
